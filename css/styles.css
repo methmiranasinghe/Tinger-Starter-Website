@@ -1,0 +1,34 @@
+#title{
+  background-color: #ff4c68;
+}
+
+.navbar-brand{
+  font-family:'Ubuntu';
+
+}
+
+nav .navbar-nav li a:hover{
+  color:black !important;
+  font-weight: bolder;
+  font-size: 1.5rem;
+
+
+}
+
+h1{
+  font-family:'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+
+}
+
+.container-fluid{
+  padding: 3% 15%;
+
+}
+
+.btn btn-dark i{
+  font-size: 1rem;
+  text-transform: lowercase;
+}
