@@ -74,14 +74,34 @@ nav{
 .icon{
 
   padding: 13px;
-  color:  #ff4c68;
+  color: #ef8172;
   font-size: 3rem;
+  margin-bottom: 1rem;
 }
 
 
 .icon:hover{
 
   padding: 13px;
-  color:  pink;
-  font-size: 3rem;
+  color:#ff4c68;
+
+}
+
+
+/* features  Section*/
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+  padding: 5%;
+  text-align: center;
+}
+
+h3{
+  font-family: "Montserrat"
+}
+
+p{
+  color: #8f8f8f;
 }
