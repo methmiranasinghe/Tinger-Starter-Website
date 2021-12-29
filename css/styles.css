@@ -105,3 +105,33 @@ h3{
 p{
   color: #8f8f8f;
 }
+
+
+/* Testimonials Section */
+#testimonials{
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+  background-color:#ff4c68;
+
+}
+
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+.testimonial-img{
+  margin:20px;
+  width: 10%;
+  border-radius: 100%;
+
+}
+
+/* press section */
+#press{
+    background-color:#ff4c68;
+
+}
