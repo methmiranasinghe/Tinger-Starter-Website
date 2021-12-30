@@ -132,7 +132,7 @@ h2{
 
 .carousel-item{
   padding: 7% 15%;
-  }  
+  }
 
 
 /* press section */
@@ -142,8 +142,27 @@ h2{
     padding-bottom: 3%;
 }
 
+#pricing{
+  padding: 100px;
+}
+
+.pricing-col{
+  padding: 3% 2%;
+}
 
 .logo{
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+.header-2{
+  text-align: center;
+}
+
+.card-3{
+  line-height: 1.2;
+}
+
+.card-2{
+  line-height: 1.4;
 }
